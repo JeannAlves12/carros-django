@@ -11,7 +11,6 @@
 | `cars` | Cadastro e gestão de carros |
 | `accounts` | Contas de usuário |
 | `openai_api` | Integração com a API da OpenAI |
-<!-- ⚠️ CONFIRMAR o que o openai_api faz (ex.: gera descrição do carro) e escrever aqui -->
 
 ## Tecnologias
 
